@@ -1,0 +1,7 @@
+fastf1
+meteostat
+pandas
+scikit-learn
+tableauhyperapi
+python-dotenv
+google-generativeai
